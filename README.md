@@ -47,8 +47,8 @@
 
 **TD-TP**:
 - [ ] TP: DSP distribué.
-- [ ] TD-TP5: Théorie des jeux.
-- [ ] TD-TP: Les Enchères.
+- [x] TD-TP5: Théorie des jeux.
+- [x] TD-TP: Les Enchères.
 - [ ] TP: Automate Cellulaire.
 - [ ] TD-TP: Algorithme PSO.
 
