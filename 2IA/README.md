@@ -6,7 +6,7 @@
 ---
 
 **Examen**: 
-- [x] Orale: Il est nécessaire de réviser l'intégralité du cours.
+- [ ] Orale: Il est nécessaire de réviser l'intégralité du cours.
 
 **TPs**:
 - [ ] TP1: Implémentation SVM avec une base de données médicales, aujourd'hui.
