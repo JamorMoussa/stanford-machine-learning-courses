@@ -26,7 +26,7 @@
 
 **Projects**:
 - [ ] Project1: Différenciation automatique.
-- [ ] Project2: Optimiseur AdaDelta.
+- [x] Project2: Optimiseur AdaDelta.
 - [ ] Project3: Apprentissage adaptatif + auto-adaptatif + ISVM.
 - [ ] Project4: Choix d'une méthode heuristique pour l'optimisation + version auto-adaptative.
 
