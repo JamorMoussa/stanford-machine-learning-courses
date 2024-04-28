@@ -9,7 +9,7 @@
 - [ ] Orale: Il est nécessaire de réviser l'intégralité du cours.
 
 **TPs**:
-- [ ] TP1: Implémentation SVM avec une base de données médicales, aujourd'hui.
+- [x] TP1: Implémentation SVM avec une base de données médicales, aujourd'hui.
 - [ ] TP2: Implémentation de la borne de généralisation de la complexité de Rademacher, délai 06/05.
 
 **NB**: Réaliser une étude comparative entre les différentes méthodes.
