@@ -35,7 +35,7 @@
 ---
 
 **TP**:
-- [ ] TP5: GRU & LSTM pour la classification de texte et étude comparative avec RNN.
+- [x] TP5: GRU & LSTM pour la classification de texte et étude comparative avec RNN.
 - [ ] TP6: Segmentation des images médicales, la détection des objets.
 
 **NB**: Détection avec YOLO, segmentation avec U-net.
