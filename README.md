@@ -91,3 +91,7 @@
 
 **Cours**: 
 - [ ] Réviser le cours.
+
+**Avancement:**
+- [ ] cours 1: Introduction
+   - types de clustering page 26.
