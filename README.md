@@ -46,7 +46,7 @@
 ### Multi-Agent:
 
 **TD-TP**:
-- [ ] TP: DSP distribué.
+- [x] TP: DSP distribué.
 - [x] TD-TP5: Théorie des jeux.
 - [x] TD-TP: Les Enchères.
 - [ ] TP: Automate Cellulaire.
