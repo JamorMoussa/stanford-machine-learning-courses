@@ -75,7 +75,7 @@
 ---
 
 **Projects**:
-- [ ] Le projet personnel.
+- [x] Le projet personnel.
 - [x] Le projet professionnel.
 - [x] CV.
 - [ ] La fiche de métier.
