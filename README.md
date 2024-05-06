@@ -80,7 +80,7 @@
 - [x] CV.
 - [x] La fiche de métier.
 - [x] L'offre d'emploi.
-- [ ] La lettre de motivation.
+- [x] La lettre de motivation.
 
 ### Unsupervised Learning:
 
