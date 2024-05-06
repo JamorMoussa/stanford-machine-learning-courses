@@ -78,8 +78,8 @@
 - [x] Le projet personnel.
 - [x] Le projet professionnel.
 - [x] CV.
-- [ ] La fiche de métier.
-- [ ] L'offre d'emploi.
+- [x] La fiche de métier.
+- [x] L'offre d'emploi.
 - [ ] La lettre de motivation.
 
 ### Unsupervised Learning:
