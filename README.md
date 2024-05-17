@@ -1,6 +1,5 @@
 ## TODO
 
-
 ### SVM
 
 ---
@@ -8,11 +7,6 @@
 **Examen**: 
 - [ ] Orale: Il est nécessaire de réviser l'intégralité du cours.
 
-**TPs**:
-- [x] TP1: Implémentation SVM avec une base de données médicales, aujourd'hui.
-- [x] TP2: Implémentation de la borne de généralisation de la complexité de Rademacher, délai 06/05.
-
-**NB**: Réaliser une étude comparative entre les différentes méthodes.
 
 **Projects**:
 - [ ] Project1: Classification multi-classe.
@@ -24,36 +18,31 @@
 
 ---
 
-**Projects**:
-- [x] Project1: Différenciation automatique.
-- [x] Project2: Optimiseur AdaDelta.
-- [ ] Project3: Apprentissage adaptatif + auto-adaptatif + ISVM.
-- [ ] Project4: Choix d'une méthode heuristique pour l'optimisation + version auto-adaptative.
+> **Make some changes in report.**
+
+- [ ] chapter 1: 
+- [ ] chapter 2: 
+- [ ] chapter 3: 
+- [ ] chapter 4: 
+
 
 ### Deep Learning
 
 ---
-
-**TP**:
-- [x] TP5: GRU & LSTM pour la classification de texte et étude comparative avec RNN.
-- [x] TP6: Segmentation des images médicales, la détection des objets.
-
-**NB**: Détection avec YOLO, segmentation avec U-net.
 
 **Project**: 
 - [ ] Le projet des sections transversales, détermination de la structure optimale.
 
 ### Multi-Agent:
 
-**TD-TP**:
-- [x] TP: DSP distribué.
-- [x] TD-TP5: Théorie des jeux.
-- [x] TD-TP: Les Enchères.
-- [ ] TP: Automate Cellulaire.
-- [ ] TD-TP: Algorithme PSO.
+**Projects**
 
-**Cours**:
-- [ ] Il faut réviser tous les slides.
+#### FireFly Algorithm for hyper-parameter tuning to train a CBOW model.
+- [ ] finishing the code.
+   - [ ] make some plot of loss function and accuraccy.
+
+- [ ] finishing the report.
+
 
 ### Probabilistic Learning:
 
@@ -70,28 +59,9 @@
 - [ ] Trouver un domaine d'application.
 - [ ] 25% de la note finale. Le dernier délai est le 25/05.
 
-### Français:
-
----
-
-**Projects**:
-- [x] Le projet personnel.
-- [x] Le projet professionnel.
-- [x] CV.
-- [x] La fiche de métier.
-- [x] L'offre d'emploi.
-- [x] La lettre de motivation.
-
 ### Unsupervised Learning:
 
 ---
 
 **Project**:
 - [ ] Le projet de prédiction de liens ou de détection de communauté.
-
-**Cours**: 
-- [ ] Réviser le cours.
-
-**Avancement:**
-- [ ] cours 1: Introduction
-   - types de clustering page 26.
