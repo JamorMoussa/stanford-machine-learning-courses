@@ -1,12 +1,8 @@
 ## TODO
 
-### Deep Learning Project
+1. Attention Is All You Need Textbook:
+  - add **Positional Encoding** section.
+  - add **Attention Mechanism** section.
 
-- Presentation: 11 jun 2024.
-- **report**:
-- **Code**:
-  - Try MLP, GCN.
-
-### PFA
-
-- **report**: do some changes. add abstract/aknowlegments...
+2. RAG PyTorch from scratch:
+  - follow the **Local Retrieval Augmented Generation (RAG) from Scratch (step by step tutorial)** Tutorial from Daniel Bourke.
