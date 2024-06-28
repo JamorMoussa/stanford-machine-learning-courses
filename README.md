@@ -1,4 +1,4 @@
-# Machine Learning RoadMap:
+# Machine Learning RoadMap
 
 > **Note**:
 > When I say learn something, I mean learn it in detail and write about it on my website [Zero to Mastery Learn Machine Learning and Deep Learning Concepts](https://jamormoussa.github.io/docs/).
@@ -28,7 +28,7 @@ Here are some useful links:
 
 ### Learn About Optimizers for Deep Learning
 
-1. Learn about gradient-based optimization algorithms for deep learning, including stochastic gradient descent (SGD), AdaGrad, Adam, etc.
+1. Learn about gradient-based optimization algorithms for deep learning, including **stochastic gradient descent (SGD)**, **AdaGrad**, **Adam**, etc.
 
 2. Make a full comparison analysis of all these algorithms, highlighting the advantages and drawbacks of each of them.
 
@@ -37,3 +37,33 @@ Here are some useful links:
     - Check out the `torch_utils` project: [https://github.com/JamorMoussa/torch_utils](https://github.com/JamorMoussa/torch_utils)
 
 ### Deep Learning Architectures
+
+1. **Convolutional Neural Networks**:
+
+    - Learn about **Convolutional Neural Networks (CNNs)** and their applications in computer vision tasks, e.g. **Object Detection/Recognition**, **Segmentation**, **Object Tracking**, etc.
+
+    - Go further by using **Transfer Learning** with some advanced CNN architectures, including **VGG**, **ViT**, **LeNet**, **AlexNet**, **GoogLeNet**, **ResNet**, etc.
+
+    - Understand the **YOLO** algorithm, which is one of the best computer vision algorithms nowadays.
+
+2. **Recurrent Neural Networks**:
+
+    - Learn about **Recurrent Neural Networks (RNNs)** and their variations, such as **LSTMs** and **GRUs**, and their applications in sequence data modeling, e.g. text, audio, videos, and their use cases for different ML tasks, including **Sentiment Analysis**, **Time Series Forecasting**, **Language Modeling**, and more.
+
+3. **Transformers and LLMs**:
+
+    - Understand the **Transformer** architecture (which is at the heart of ChatGPT), the **Attention Mechanism**, and its application in the fields of **NLP** and **Computer Vision**.
+
+    - Explore different architectures for different tasks, such as **BERT** for sentiment analysis, **GPT** for text generation (e.g. **Llama2**, **Gemma**), and **ViT** for vision tasks.
+
+4. **Generative AI**:
+
+    - Explore the **GAN** architecture for image generation and apply them to solve specific problems.
+
+    - Rewrite the **AutoEncoder** documentation, explore its variations like **Variational AutoEncoders (VAEs)**, and apply them for **Anomaly Detection**, **Data Augmentation** by generating new instances of the data, and **Non-Linear Dimensionality Reduction**.
+
+    - Explore the world of **Diffusion Models**, the state-of-the-art in image generation.
+
+
+
+
