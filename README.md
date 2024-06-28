@@ -64,5 +64,16 @@ Here are some useful links:
     - Explore the world of **Diffusion Models**, the state-of-the-art in image generation.
 
 
+## 04. Projects
+
+1. [`NanoTorch`](https://github.com/JamorMoussa/NanoTorch) (under development): NanoTorch is a deep learning library created using only **Numpy** and **Math**. The goal is to provide detailed documentation on how this library is created, from theoretical and mathematical explanations to efficient implementation. It adopts the `PyTorch` syntax, allowing people to connect a deep understanding of theory with implementation concerns.
+
+2. [`torch_utils`](https://github.com/JamorMoussa/torch_utils) (under development): torch_utils is a library built on top of **PyTorch** that provides **APIs** and helpful functionalities to speed up model building, training, and deployment.
+
+3. [`footballvision`](https://github.com/JamorMoussa/FootBallVision) (under development): FootBallVision is a library that leverages AI and computer vision technology to analyze football matches, including player statistics, player and ball tracking, goal counting, and more.
+
+4. [**RAG PyTorch From Scratch**](https://github.com/JamorMoussa/RAG-PyTorch-From-Scratch) (under development): This project aims to create a **RAG** pipeline from scratch to build a Chat PDF system. It will allow for a comprehensive understanding of the **RAG** pipeline to improve **LLM** performance.
+
+
 
 
