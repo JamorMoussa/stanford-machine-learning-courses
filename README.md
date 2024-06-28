@@ -1,11 +1,10 @@
-# Machine Learning RoadMap
+# Machine Learning RoadMap - Self-Learning AI
 
 > **Note**:
 > When I say learn something, I mean learn it in detail and write about it on my website [Zero to Mastery Learn Machine Learning and Deep Learning Concepts](https://jamormoussa.github.io/docs/).
 
-## Self-Learning - AI
 
-### Learn scikit-learn's User Guide
+## 01. Learn scikit-learn's User Guide
 
 Scikit-learn's website provides a detailed user guide for the `sklearn` library for different machine learning tasks. This user guide page offers detailed section navigation containing interesting topics in machine learning. Here are the top three topics on the list:
 
@@ -26,7 +25,7 @@ Here are some useful links:
 - Support Vector Machines for Beginners – Linear SVM: [https://adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-linear-svm/](https://adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-linear-svm/)
 - Linear Discriminant Analysis – from Theory to Code: [https://adeveloperdiary.com/data-science/machine-learning/linear-discriminant-analysis-from-theory-to-code-(copy)/](https://adeveloperdiary.com/data-science/machine-learning/linear-discriminant-analysis-from-theory-to-code-(copy)/)
 
-### Learn About Optimizers for Deep Learning
+## 02. Learn About Optimizers for Deep Learning
 
 1. Learn about gradient-based optimization algorithms for deep learning, including **stochastic gradient descent (SGD)**, **AdaGrad**, **Adam**, etc.
 
@@ -36,7 +35,7 @@ Here are some useful links:
 
     - Check out the `torch_utils` project: [https://github.com/JamorMoussa/torch_utils](https://github.com/JamorMoussa/torch_utils)
 
-### Deep Learning Architectures
+## 03. Deep Learning Architectures
 
 1. **Convolutional Neural Networks**:
 
