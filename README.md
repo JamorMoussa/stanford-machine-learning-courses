@@ -1,6 +1,6 @@
 # Stansford Machine Learning Courses
 
-:white_large_square
+:white_large_square:
 
 ## 01. CS231n Winter 2016 - Convolutional Neural Networks for Visual Recognition
 
