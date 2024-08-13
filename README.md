@@ -12,7 +12,7 @@
 
 | Number | Done | Video Title                                                                 | YouTube Link |
 |--------|------|------------------------------------------------------------------------------|--------------|
-| 1      | <input type="checkbox" disabled /> | CS231n Winter 2016: Lecture 1: Introduction and Historical Context           |              |
+| 1      | <input type="checkbox" checked /> | CS231n Winter 2016: Lecture 1: Introduction and Historical Context           |              |
 | 2      | <input type="checkbox" disabled /> | CS231n Winter 2016: Lecture 2: Data-driven approach, kNN, Linear Classification 1 |              |
 | 3      | <input type="checkbox" disabled /> | CS231n Winter 2016: Lecture 3: Linear Classification 2, Optimization         |              |
 | 4      | <input type="checkbox" disabled /> | CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks 1            |              |
