@@ -19,7 +19,7 @@
 |---------|-----------------------|---------------------------------------------------------------------------|--------------|
 | 1       | :white_large_square:  | Introduction and Historical Context                                       | [Link](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=1) |
 | 2       | :white_check_mark:  | Data-driven approach, kNN, Linear Classification 1                        | [Link](https://www.youtube.com/watch?v=3zdVZ7tjSYw&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2) |
-| 3       | :white_large_square:  | Linear Classification 2, Optimization                                     | [Link](https://www.youtube.com/watch?v=7eyZsK6vklU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=3) |
+| 3       | :white_check_mark:  | Linear Classification 2, Optimization                                     | [Link](https://www.youtube.com/watch?v=7eyZsK6vklU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=3) |
 | 4       | :white_large_square:  | Backpropagation, Neural Networks 1                                         | [Link](https://www.youtube.com/watch?v=V3alal_qmO4&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=4) |
 | 5       | :white_large_square:  | Neural Networks Part 2                                                    | [Link](https://www.youtube.com/watch?v=JE9Oa80CS7g&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=5) |
 | 6       | :white_large_square:  | Neural Networks Part 3 / Intro to ConvNets                                 | [Link](https://www.youtube.com/watch?v=9WK7PJ2SJxY&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=6) |
