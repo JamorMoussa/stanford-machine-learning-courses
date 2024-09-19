@@ -1,0 +1,66 @@
+
+site_name: website
+site_url: 
+site_description: 
+
+repo_url: https://github.com/JamorMoussa/docs
+repo_name: JamorMoussa/docs
+
+docs_dir: cs321n-conv-nets-for-visual-recognition
+
+theme:
+  name: material
+  features:
+    - navigation.top
+    - navigation.tabs
+  palette:
+    # primary: black
+
+  font:
+      text: "Segoe UI"
+
+
+extra_css:
+ - css/extra.css
+
+
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+
+  
+plugins:
+ - mkdocs-jupyter:
+    include_source: True
+ - search
+
+edit_uri: ""
+
+site_author: Moussa JAMOR
+
+nav:
+  - Stanford Courses:
+    - cs231n - Convolution Nets for visual Recognition: 
+      - 0.1 Image Classification - Data-driven Approch: lecture-1.md
+
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/moussa-jamor-b17a58253/
+    - icon: fontawesome/brands/github
+      link: https://github.com/JamorMoussa/
+

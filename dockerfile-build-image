@@ -1,0 +1,11 @@
+# Use the official Python 3.11 image as a base
+FROM python:3.11-slim
+
+# Set environment variables
+ENV PYTHONUNBUFFERED 1
+
+# Install MkDocs and the necessary plugins
+RUN pip install --upgrade pip \
+    && pip install mkdocs-material mkdocs-jupyter "mkdocs-material[imaging]"
+
+WORKDIR /docs
