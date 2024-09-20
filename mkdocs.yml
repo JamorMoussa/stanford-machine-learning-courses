@@ -49,7 +49,8 @@ site_author: Moussa JAMOR
 nav:
   - Stanford Courses:
     - cs231n - Convolution Nets for visual Recognition: 
-      - 0.1 Image Classification - Data-driven Approch: lecture-1.md
+      - index.md 
+      - 0.1 Image Classification - Data-driven Approach: lecture-1.md
 
 
 extra_javascript:
